@@ -1,6 +1,6 @@
 # SebViewTool
 
-> View specific methods for an application I use.
+> 1View specific methods for an application I use.
 
 ## Installation
 
@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+  SebViewTool::Renderer.copyright 'Sebastian Valdez', 'All rights reserved'
+```
 
 ## Development
 
